@@ -1,1 +1,1 @@
-# FilmsCinemaApp
+# Scripts big data mining R
